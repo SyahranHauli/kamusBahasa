@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667771270 source:c:\users\hauli\onedrive\documents\mod7\tp_mod7\main.cpp
+	<iostream>
+	"DLL.h"
+
+1667771255 source:c:\users\hauli\onedrive\documents\mod7\tp_mod7\dll.cpp
+	"DLL.h"
+
+1667771255 c:\users\hauli\onedrive\documents\mod7\tp_mod7\dll.h
+	<iostream>
+
